@@ -1,0 +1,5 @@
+state/
+outbox/
+bin/
+*.log
+__pycache__/
